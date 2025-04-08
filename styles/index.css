@@ -92,8 +92,8 @@ body{
 
 .navbar .sidebarbutton{
     background: #00008b;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -109,19 +109,19 @@ body{
     gap: 4px;
 }
 .navbar .sidebarbutton .hamburg span{
-    width: 30px;
+    width: 25px;
     height: 4px;
     background: white;
     border-radius: 5px;
-}
+} 
 .navbar .sidebarbutton .hamburg span:nth-child(2){
-    width: 25px;
+    width: 20px;
     height: 4px;
     background: white;
     border-radius: 5px;
 }
 .navbar .sidebarbutton .hamburg span:nth-child(3){
-    width: 20px;
+    width: 15px;
     height: 4px;
     background: white;
     border-radius: 5px;
@@ -146,10 +146,10 @@ body{
         display: none;
     }
     .navbar .content{
-        padding: 20px 15px;
+        padding: 10px 15px;
     }
     .navbar .content img{
-        width: 60px;
+        width: 50px;
     }
 }
 
@@ -266,9 +266,9 @@ body{
         align-items: center;
     }
     .it-solution .content img{
-        max-width: 250px;
+        max-width: 230px;
     }
     .it-solution .content{
-        margin-top: -60px;
+        margin-top: -30px;
     }
 }
